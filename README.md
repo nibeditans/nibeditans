@@ -1,4 +1,4 @@
-👋 Hi, I’m @nibeditans
+👋 Hi, I’m Nibedita!
 
 👀 I’m interested in data science and analytics, with a focus on leveraging Python for data analysis and machine learning.
 
