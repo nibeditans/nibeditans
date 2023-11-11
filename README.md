@@ -2,7 +2,7 @@
 
 👀 I’m interested in data science and analytics, with a focus on leveraging Python for data analysis and machine learning.
 
-🌱 I’m currently learning Python and expanding my knowledge in data science methodologies and tools.
+🌱 I’m currently expanding my knowledge in data science methodologies and tools.
 
 💞️ I’m looking to collaborate on projects related to data analysis, machine learning, and predictive modeling. 
     I'm particularly interested in applying my mathematical background to real-world data problems.
