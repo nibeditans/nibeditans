@@ -1,20 +1,28 @@
-👋 Hi, I’m Nibedita!
+Hello! I'm Nibedita, a passionate data science enthusiast with a focus on utilizing Python for impactful data analysis. Armed with a BSc degree in Mathematics, I bring a robust foundation in mathematical concepts and problem-solving skills to the realm of data science. Actively expanding my knowledge in data science methodologies and tools, I am eager to collaborate on projects related to data analysis, machine learning, and predictive modeling. Open to exciting opportunities, you can connect with me on [LinkedIn](https://www.linkedin.com/in/ns-nibedita-sahu/). Let's collaborate and transform data into valuable insights!
 
-💞 I’m interested in data science and analytics, with a focus on leveraging Python for data analysis and machine learning.
+# Hello, I'm Nibedita! 👋
 
-🌱 I’m currently expanding my knowledge in data science methodologies and tools.
+I'm a passionate data science enthusiast with a focus on utilizing Python for impactful data analysis. Armed with a BSc degree in Mathematics, I bring a robust foundation in mathematical concepts and problem-solving skills to the realm of data science.
 
-👀 I’m looking to collaborate on projects related to data analysis, machine learning, and predictive modeling. 
-    I'm particularly interested in applying my mathematical background to real-world data problems.
+**Skills:**
+- Python
+- SQL
+- Excel
+- Power BI
+- Business Maths and Stats
+- Problem Solving
+- Analytical Thinking
+- Tech Content Writing
 
-📫 You can reach me via email at [nibeditasahu2003@gmail.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/ns-nibedita-sahu/).
 
-🎓 Background: I hold a BSc degree in Mathematics, which has provided me with a strong foundation in mathematical concepts and problem-solving skills. 
-    I'm excited to apply these skills to the field of data science and contribute to innovative projects.
+Actively expanding my knowledge in data science methodologies and tools, I am eager to collaborate on projects related to data analysis, machine learning, and predictive modeling.
 
-🔭 I'm constantly exploring new techniques and tools in data science and staying updated with the latest developments in the field.
+**Let's Connect:**
+Open to exciting opportunities, you can connect with me on [LinkedIn](https://www.linkedin.com/in/ns-nibedita-sahu/). 
 
-✨ Let's collaborate and turn data into valuable insights!
+Let's collaborate and transform data into valuable insights!
+
+
 
 
 <!---
