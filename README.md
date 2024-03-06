@@ -13,7 +13,7 @@ I'm a passionate data science enthusiast with a focus on utilizing Python for im
 - Tech Content Writing
 
 
-Actively expanding my knowledge in data science methodologies and tools, I am eager to collaborate on projects related to data analysis, machine learning, and predictive modeling.
+Continuously learning and exploring data science methodologies and tools, I am enthusiastic about collaborating on projects related to data analysis and predictive modeling. While I am currently building my skills, I bring a strong foundation in Python, SQL, and analytical thinking to contribute effectively to data-focused initiatives.
 
 **Let's Connect:**
 Open to exciting opportunities, you can connect with me on [LinkedIn](https://www.linkedin.com/in/ns-nibedita-sahu/). 
