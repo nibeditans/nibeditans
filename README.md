@@ -9,6 +9,7 @@ I'm a passionate data science enthusiast with a focus on utilizing Python for im
 - Power BI
 - Business Maths and Stats
 - Problem Solving
+- Logical Thinking
 - Analytical Thinking
 - Tech Content Writing
 
