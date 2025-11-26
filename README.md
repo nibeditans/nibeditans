@@ -20,6 +20,9 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge) 
 ![Seaborn](https://img.shields.io/badge/Seaborn-4B0082?style=for-the-badge)
+![Scikit-learn](https://img.shields.io/badge/Sklearn-f2b71f?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+![StatsModels](https://img.shields.io/badge/StatsModels-bd2a51?style=for-the-badge&logo=statsmodels&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-259603?style=for-the-badge&logo=scipy&logoColor=white)
 
 ### **Version Control:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
