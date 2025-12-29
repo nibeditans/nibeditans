@@ -36,6 +36,7 @@
 
 ### **BI and Storytelling:**  
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge)
+![Tableau](https://img.shields.io/badge/Tableau-F2N411?style=for-the-badge)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge)
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-D24726?style=for-the-badge)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge)
