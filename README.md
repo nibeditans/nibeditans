@@ -28,11 +28,17 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### **IDEs & Databases:**  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-12275C?style=for-the-badge&logo=mysql&logoColor=white)
+### **Markup & Documentation:**  
+![Markdown](https://img.shields.io/badge/Markdown-C1DE04?style=for-the-badge&logo=markdown&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+
+### **Markup & Documentation:** 
+![Markdown]
+![HTML]
+![CSS]
+![LaTeX]
 
 ### **BI and Storytelling:**  
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge)
