@@ -1,5 +1,5 @@
 <!-- Header Section -->
-# 👋 Hi, I'm **Nate** (short for **Nibedita**)! 👩🏻‍💻
+# 👋 Hi, I'm [Nate (short for Nibedita)](https://nibeditans.github.io/Nibedita-to-Nate/)! 👩🏻‍💻
 
 **I'm a Data Science & Analytics enthusiast with a strong foundation in Mathematics and a deep interest in extracting insights from data. Holding a BSc degree in Mathematics, I've developed strong problem-solving, logical reasoning, and analytical thinking skills that I now apply to real-world data challenges.**
 
