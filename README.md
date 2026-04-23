@@ -1,13 +1,27 @@
 <!-- Header Section -->
 # 👋 Hi, I'm [Nate (short for Nibedita)](https://nibeditans.github.io/Nibedita-to-Nate/)! 👩🏻‍💻
 
-**I'm a Data Science & Analytics enthusiast with a strong foundation in Mathematics and a deep interest in extracting insights from data. Holding a BSc degree in Mathematics, I've developed strong problem-solving, logical reasoning, and analytical thinking skills that I now apply to real-world data challenges.**
+**A Data Scientist with a strong foundation in Mathematics, focused on building end-to-end data-driven systems that support real-world decision-making.**
 
-**I work extensively with Python, SQL, and Business Intelligence tools to clean, analyze, and visualize data. I love crafting clear, insightful visual stories that make complex information easy to understand, while continuously taking on projects that challenge me to grow as a data professional. My interests also extend to data storytelling and exploring new tools and techniques, as well as sharpening my existing skills.**
+**I work with Python, SQL, and statistical modeling to analyze data, build predictive models, and understand underlying patterns. My projects emphasize clarity, interpretability, and practical application rather than complexity.**
 
-**I’m constantly learning, building projects, and exploring new opportunities to grow in the data field. Beyond analytics, I also enjoy tech content writing, where I simplify analytical concepts for a wider audience.**
+**Recently, I've been exploring the intersection of Data Science and AI, integrating LLM-based approaches to enhance how insights are generated and communicated.**
+
+**I also write about Data Science, Machine Learning, and Statistics, simplifying complex concepts through structured, practical content.**
 
 ----
+
+## **Techniques & Concepts**
+
+![Mathematics](https://img.shields.io/badge/Mathematics-258603?style=for-the-badge)
+![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-008080?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-4B0082?style=for-the-badge)
+![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-2E8B57?style=for-the-badge)
+![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-4682B4?style=for-the-badge)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-DAA520?style=for-the-badge)
+![AI Workflows](https://img.shields.io/badge/AI%20Workflows-DC143C?style=for-the-badge)
+
 
 ## **Tech Stack & Skills**
 
@@ -18,9 +32,9 @@
 ### **Libraries:**  
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
+![Scikit-learn](https://img.shields.io/badge/Sklearn-f2b71f?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge) 
 ![Seaborn](https://img.shields.io/badge/Seaborn-4B0082?style=for-the-badge)
-![Scikit-learn](https://img.shields.io/badge/Sklearn-f2b71f?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 ![StatsModels](https://img.shields.io/badge/StatsModels-bd2a51?style=for-the-badge&logo=statsmodels&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-259603?style=for-the-badge&logo=scipy&logoColor=white)
 
@@ -78,4 +92,4 @@
 </p>
 
 <br><br>
-⭐️ **The goal is to turn data into information, and information into insight.**  
+⭐️ **Turning data into insights that support better decisions.**  
