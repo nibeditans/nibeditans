@@ -75,7 +75,7 @@
 
 <p>
   <a href="https://nibeditans.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-149403?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-1B8001?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://in.linkedin.com/in/ns-nibedita-sahu" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -83,11 +83,14 @@
   <a href="https://nsdsda.medium.com/" target="_blank">
     <img src="https://img.shields.io/badge/Medium-181717?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
-  <a href="https://www.hackerrank.com/profile/nibeditans" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
-  </a>
   <a href="https://www.kaggle.com/nibeditasahu" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+    <img src="https://img.shields.io/badge/Kaggle-027CB0?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/nibeditans" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-07AD28?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  </a>
+  <a href="https://huggingface.co/nibeditans" target="_blank">
+    <img src="https://img.shields.io/badge/HuggingFace-FFDC40?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face"/>
   </a>
 </p>
 
